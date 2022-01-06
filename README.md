@@ -1,12 +1,12 @@
-# _Pet Shelter Website_
+# _Section in Review_
 
 #### By
 
-- _**Chase Stokes <https://github.com/chase-stokes>**_
 - _**Jake Haley <https://github.com/jakechaley>**_
+- _**Chase Stokes <https://github.com/chase-stokes>**_
 - _**Kevin Williams <https://github.com/k9w>**_
 
-#### _Animal Shelter for our furry friends_
+#### _Our first showcase of Bootstrap in our work_
 
 ## Technologies Used
 
@@ -16,13 +16,13 @@
 
 ## Description
 
-_The Epicodus Animal Shelter strives to showcase pets for adoption._
+_We use Bootstrap in our lesson from Epicodus._
 
 ## Setup/Installation Requirements
 
-- _Live site: <https://chase-stokes.github.io/pet-shelter>_
+- _Live site: <https://jakechaley.github.io/section-in-review>_
 - _To contribute, clone the repo from:_
-- _<https://github.com/chase-stokes/pet-shelter>_
+- _<https://github.com/jakechaley/section-in-review>_
 
 ## Known Bugs
 
