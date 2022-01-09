@@ -16,7 +16,7 @@
 
 ## Description
 
-_This is the secon HTML & CSS page we made as a pair group at
+_This is the second HTML & CSS page we made as a pair group at
 [Epicodus](https://epicodus.com), and the first to incorporate [Bootstrap](https://github.com/twbs/bootstrap)! We worked [the assignment for this
 page](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/bootstrap-basic-elements)
 from [our curriculum](https://learnhowtoprogram.com) on Thursday
