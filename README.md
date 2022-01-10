@@ -12,11 +12,19 @@
 
 - _HTML_
 - _CSS_
-- _Markdown_
+- _Bootstrap_
 
 ## Description
 
-_We use Bootstrap in our lesson from Epicodus._
+_This is the second HTML & CSS page we made as a pair group at
+[Epicodus](https://epicodus.com), and the first to incorporate [Bootstrap](https://github.com/twbs/bootstrap)! We worked [the assignment for this
+page](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/bootstrap-basic-elements)
+from [our curriculum](https://learnhowtoprogram.com) on Thursday
+January 6th 2022. You can find more of our work at:_
+
+* https://github.com/chase-stokes
+* https://github.com/jakechaley
+* https://github.com/k9w
 
 ## Setup/Installation Requirements
 
